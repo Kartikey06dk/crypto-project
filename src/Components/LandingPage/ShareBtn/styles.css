@@ -1,0 +1,9 @@
+.share_btns {
+    width: 200px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    flex-wrap: nowrap;
+    background-color: rgb(100, 237, 123);
+    z-index: 2;
+}
